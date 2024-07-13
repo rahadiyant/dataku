@@ -1,4 +1,4 @@
-nomor_kwitansi,tanggal,pasien,dokter,poliklinik,tipe,tindakan,harga
+nomor_kwitansi,tanggal,pasien,nama_dokter,poliklinik,tipe,tindakan,harga
 KWTN240715120,2024-07-11,TIO SULUNG RIZKYANI,"dr. ABUBAKAR BADJUBER, Sp.M",Poli Mata,UMUM,Konsultasi Dokter,100
 KWTN240715119,2024-07-11,SUTRISNO (SIDODADI),"dr. ABUBAKAR BADJUBER, Sp.M",Poli Mata,UMUM,Konsultasi Dokter,100
 KWTN240715118,2024-07-11,SUDARWANTO,"dr. ABUBAKAR BADJUBER, Sp.M",Poli Mata,UMUM,Konsultasi Dokter,100
